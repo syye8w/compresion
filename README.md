@@ -1,0 +1,2 @@
+Proyecto, de optmizaciones de todo tipo, por el momento, solo se hace codificacion de imagen, en formato .bin en el que se ve una reduccion de bytes.Esto es importante porque ayuda a enviar codificadamente informacion SIN PERDIDAD, 
+a través de diferentes espacios, como Gmail. En el futuro cercano se busca hacer un sitio en el que optimicen canciones, o cualquier tipo de informacion, para despues vender los servicios como API, a grandes empresas.
